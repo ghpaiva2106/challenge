@@ -1,7 +1,0 @@
-appName: helloworld-kotlin
-namespace: default
-appVersion: latest
-replicaCount: 1
-image:
-  registry: docker.io/ghpaiva
-  pullPolicy: Never
